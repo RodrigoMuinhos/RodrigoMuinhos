@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rodrigo Muinhos</h1>
+<h1 align="center"> 😄 Rodrigo Muinhos</h1>
 <p align="center">Front-End Developer | React | TypeScript | UI/UX Design</p>
 
 <p align="center">
