@@ -1,7 +1,7 @@
 <h1 align="center">😎 Rodrigo Muinhos</h1>
 <p align="center">
   <strong>Front-End Developer | React | TypeScript | UI/UX Design</strong><br>
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RodrigoMuinhos&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -13,8 +13,8 @@ Busco aliar performance, usabilidade e design para transformar ideias em soluç�
 
 Atualmente desenvolvendo dois projetos de impacto:
 
-- 🔹 [**MobSupply**](https://github.com/seu-usuario/MobSupply) — Plataforma completa para vendas, atacado e gestão de distribuição, voltada a negócios locais.
-- 🔸 [**AuditAI**](https://github.com/seu-usuario/AuditAI) — Sistema de auditoria e conformidade em IA, com foco em LGPD, transparência e riscos regulatórios.
+- 🔹 [**MobSupply**](https://github.com/RodrigoMuinhos/MobSupplyBackup) — Plataforma completa para vendas, atacado e gestão de distribuição, voltada a negócios locais.
+- 🔸 [**AuditAI**](https://github.com/RodrigoMuinhos/AuditAI) — Sistema de auditoria e conformidade em IA, com foco em LGPD, transparência e riscos regulatórios.
 
 ---
 
@@ -37,11 +37,11 @@ Atualmente desenvolvendo dois projetos de impacto:
 
 ## 🧩 Projetos em Destaque
 
-### 🔹 [MobSupply](https://github.com/seu-usuario/MobSupply)
+### 🔹 [MobSupply](https://github.com/RodrigoMuinhos/MobSupplyBackup)
 Plataforma de gestão de vendas e atacado, com geração de relatórios, controle de estoque e PDF dinâmico.  
 📦 React · TypeScript · LocalStorage · Chart.js
 
-### 🔸 [AuditAI](https://github.com/seu-usuario/AuditAI)
+### 🔸 [AuditAI](https://github.com/RodrigoMuinhos/AuditAI)
 Sistema de auditoria de conformidade com LGPD e IA responsável.  
 🔐 Next.js · Tailwind · PostgreSQL · Formulários Dinâmicos
 
@@ -50,16 +50,16 @@ Sistema de auditoria de conformidade com LGPD e IA responsável.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoMuinhos&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMuinhos&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📇 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigomuinhos)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigomuinhos@gmail.com)
 
 ---
 
