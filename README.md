@@ -1,72 +1,110 @@
-<h1 align="center">🚀 Rodrigo Muinhos</h1> <p align="center"> <strong>Fullstack Developer | Node.js • TypeScript • React • Docker • DevOps</strong><br> <img src="https://komarev.com/ghpvc/?username=RodrigoMuinhos&color=blue" alt="Profile views" /> </p>
-🔥 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoMuinhos&color=blue" />
+</p>
 
-I’m a fullstack developer passionate about turning ideas into functional, scalable products.
-I focus on clean architecture, DevOps best practices, and great user experience.
+<div align="center">
 
-I currently develop and maintain two high-impact SaaS projects:
+# LVNA / Rodrigo Muinhos
 
-🔹 Agenda Amiga
- — A digital platform for families and institutions, featuring scheduling, reporting, and an interactive assistant.
+### Systems that exist in the real world.
 
-🔸 MobSupply-CRM
- — A sales and reporting management system focused on local distributors and wholesalers.
+Software is easy.  
+Real systems are not.
 
-⚙️ Core Stack
+</div>
 
-Frontend: React · Vite · TypeScript · Tailwind CSS
-Backend: Node.js · Express · Nest.js
-Database: PostgreSQL · Prisma ORM
-Infra & DevOps: Docker · Render · Vercel · GitHub Actions
-Other Tools: Postman · Figma · VS Code · Git
+---
 
-🧩 Featured Projects
-🔹 Agenda Amiga
+## What I build
 
-Family-focused platform with scheduling, reporting, and interactive dashboards.
-💡 Stack: React + TypeScript + Prisma + PostgreSQL + Docker
-📱 Highlights: Mobile-first frontend · Containerized API · Vercel/Render deployment
+I don’t just write code.  
+I design systems that operate in physical environments.
 
-🔸 MobSupply-CRM
+Systems that:
 
-SaaS solution for sales, reporting, and inventory management.
-💼 Stack: React + Vite + Node.js + Prisma + PostgreSQL
-📊 Highlights: Dynamic report generation · Performance dashboard · Responsive design
+- accept payments  
+- interact with hardware  
+- survive unstable networks  
+- handle real users, queues, and failures  
+- generate revenue in the real world  
 
-📚 What I’m Learning
+---
 
-Scalability and modular architecture with monorepos (Turborepo / Yarn Workspaces)
+## Current Focus
 
-Advanced CI/CD using Docker multi-stage builds and GitHub Actions
+**Payment Orchestration & Automation**
 
-Automated testing with Vitest and React Testing Library
+- TEF (siTef) integration  
+- POS / Pinpad communication  
+- Transaction lifecycle (auth, confirm, cancel, pending)  
+- Local bridge architecture for payment abstraction  
 
-Security and database integration best practices with PostgreSQL Neon Cloud
+**Autonomous Systems**
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RodrigoMuinhos&show_icons=true&theme=dark&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMuinhos&layout=compact&theme=dark&hide_border=true" width="48%" /> </p>
-🌍 Connect with Me
+- Self-service kiosks  
+- Retail automation (fast market / unattended sales)  
+- Clinic check-in & payment systems  
 
+---
 
+## Architecture Thinking
 
+My systems are designed around constraints:
 
-🏅 Technologies & Badges
+- offline-first behavior  
+- hardware dependency  
+- transactional consistency  
+- user flow under pressure (queues, retries, failures)  
 
+---
 
+## LVNA Ecosystem
 
+A modular system for autonomous operations.
 
+Not a product.  
+A foundation.
 
+- LVNA Totem → self-service interface  
+- LunaCore → authentication & users  
+- TotemAPI → operational flow (patients, orders, events)  
+- LunaPay → payment orchestration  
+- sitef-bridge → TEF integration layer  
 
+---
 
+## Engineering Principles
 
+- systems > features  
+- reliability > hype  
+- real usage > theoretical scale  
+- integration > isolation  
 
+---
 
+## What makes this different
 
+Most developers build apps.
 
+I build systems that need to:
 
+- work on a Monday morning with real customers  
+- process payments without failure  
+- integrate with banks, hardware, and legacy systems  
+- keep running even when things go wrong  
 
+---
 
+## Direction
 
+Payment Systems Engineering  
+POS & Financial Infrastructure  
+Autonomous Retail & Service Systems  
 
+---
 
-<p align="center">💡 Building solutions that combine code, purpose, and real impact.</p>
+<div align="center">
+
+**Code is just one part of the system.**
+
+</div>
