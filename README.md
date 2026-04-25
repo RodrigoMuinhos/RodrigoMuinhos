@@ -1,97 +1,87 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodrigoMuinhos&color=blue" />
-</p>
-
 <div align="center">
 
-# LVNA / Rodrigo Muinhos
+# Rodrigo Muinhos
 
-### Systems that exist in the real world.
+### I build systems that operate in the real world.
 
-Software is easy.  
-Real systems are not.
+Not just code.  
+Not just interfaces.  
+Real systems.
 
 </div>
 
 ---
 
-## What I build
+## Who I am
 
-I don’t just write code.  
-I design systems that operate in physical environments.
+I’m a fullstack engineer focused on building systems that go beyond software.
 
-Systems that:
+My work lives where:
 
-- accept payments  
-- interact with hardware  
-- survive unstable networks  
-- handle real users, queues, and failures  
-- generate revenue in the real world  
+- software meets hardware  
+- payments meet infrastructure  
+- users interact with real-world environments  
 
----
-
-## Current Focus
-
-**Payment Orchestration & Automation**
-
-- TEF (siTef) integration  
-- POS / Pinpad communication  
-- Transaction lifecycle (auth, confirm, cancel, pending)  
-- Local bridge architecture for payment abstraction  
-
-**Autonomous Systems**
-
-- Self-service kiosks  
-- Retail automation (fast market / unattended sales)  
-- Clinic check-in & payment systems  
+I design and build solutions that don’t just run — they operate.
 
 ---
 
-## Architecture Thinking
+## What I do
 
-My systems are designed around constraints:
+I specialize in:
 
-- offline-first behavior  
+- Payment systems (TEF / siTef / POS)  
+- Self-service and kiosk automation  
+- Backend architecture for real-world operations  
+- Hardware-integrated software systems  
+
+I don’t focus on isolated features.  
+I focus on complete, working systems.
+
+---
+
+## What I’ve built
+
+I’m the creator of the **LVNA ecosystem** — a modular platform for autonomous operations.
+
+This includes:
+
+- Self-service kiosks for clinics and retail  
+- Payment orchestration systems integrated with TEF (Fiserv)  
+- Backend services handling real users, transactions, and flows  
+- Local bridge systems connecting software to payment hardware  
+
+These systems are designed to work in real environments — with real users, real failures, and real transactions.
+
+---
+
+## How I think
+
+I build systems based on constraints:
+
+- unstable networks  
 - hardware dependency  
 - transactional consistency  
-- user flow under pressure (queues, retries, failures)  
+- real user pressure (queues, retries, failures)  
+
+Because of that, I value:
+
+- reliability over hype  
+- integration over isolation  
+- real usage over theoretical scale  
 
 ---
 
-## LVNA Ecosystem
+## What makes me different
 
-A modular system for autonomous operations.
-
-Not a product.  
-A foundation.
-
-- LVNA Totem → self-service interface  
-- LunaCore → authentication & users  
-- TotemAPI → operational flow (patients, orders, events)  
-- LunaPay → payment orchestration  
-- sitef-bridge → TEF integration layer  
-
----
-
-## Engineering Principles
-
-- systems > features  
-- reliability > hype  
-- real usage > theoretical scale  
-- integration > isolation  
-
----
-
-## What makes this different
-
-Most developers build apps.
+Most developers build applications.
 
 I build systems that need to:
 
-- work on a Monday morning with real customers  
-- process payments without failure  
-- integrate with banks, hardware, and legacy systems  
-- keep running even when things go wrong  
+- process payments reliably  
+- integrate with physical devices  
+- operate without ideal conditions  
+- keep running when things go wrong  
 
 ---
 
@@ -105,6 +95,6 @@ Autonomous Retail & Service Systems
 
 <div align="center">
 
-**Code is just one part of the system.**
+**I don’t just build software. I build systems that have to work.**
 
 </div>
